@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kotlin</string>
+    <string-array name="tab_name">
+        <item>训练</item>
+        <item>发现</item>
+        <item>运动圈</item>
+        <item>我的</item>
+    </string-array>
+</resources>
